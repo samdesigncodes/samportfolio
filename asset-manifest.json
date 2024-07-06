@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/samportfolio/static/css/main.db4b0561.css",
+    "main.css": "/samportfolio/static/css/main.9d508297.css",
     "main.js": "/samportfolio/static/js/main.07b6d3dc.js",
     "static/js/453.1407b060.chunk.js": "/samportfolio/static/js/453.1407b060.chunk.js",
     "static/media/newwebsite.png": "/samportfolio/static/media/newwebsite.4ae9993d8f9f3f98b215.png",
@@ -12,12 +12,12 @@
     "static/media/GeneralSans-Regular.woff2": "/samportfolio/static/media/GeneralSans-Regular.33c07568e483102927ef.woff2",
     "static/media/GeneralSans-Medium.woff2": "/samportfolio/static/media/GeneralSans-Medium.1096c81555467a69cc16.woff2",
     "index.html": "/samportfolio/index.html",
-    "main.db4b0561.css.map": "/samportfolio/static/css/main.db4b0561.css.map",
+    "main.9d508297.css.map": "/samportfolio/static/css/main.9d508297.css.map",
     "main.07b6d3dc.js.map": "/samportfolio/static/js/main.07b6d3dc.js.map",
     "453.1407b060.chunk.js.map": "/samportfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db4b0561.css",
+    "static/css/main.9d508297.css",
     "static/js/main.07b6d3dc.js"
   ]
 }

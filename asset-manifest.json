@@ -1,25 +1,38 @@
 {
   "files": {
-    "main.css": "/samportfolio/static/css/main.ca94467c.css",
-    "main.js": "/samportfolio/static/js/main.6910735d.js",
-    "static/js/453.1407b060.chunk.js": "/samportfolio/static/js/453.1407b060.chunk.js",
-    "static/media/newwebsite.png": "/samportfolio/static/media/newwebsite.4ae9993d8f9f3f98b215.png",
+    "main.css": "/samportfolio/static/css/main.680e1b44.css",
+    "main.js": "/samportfolio/static/js/main.bbd7eed5.js",
+    "static/js/453.ace21015.chunk.js": "/samportfolio/static/js/453.ace21015.chunk.js",
     "static/media/mgimage.png": "/samportfolio/static/media/mgimage.3bf7514504d0e7cc854f.png",
     "static/media/website.png": "/samportfolio/static/media/website.3236b4837024b7beb9ad.png",
-    "static/media/Bet.png": "/samportfolio/static/media/Bet.b1bc204af5c356254d86.png",
-    "static/media/clipperlink.png": "/samportfolio/static/media/clipperlink.c6b652c6f7cc2d272109.png",
+    "static/media/profile.png": "/samportfolio/static/media/profile.83e694d89cfe6ac71be1.png",
+    "static/media/mgcover.png": "/samportfolio/static/media/mgcover.06f4123bc72e337b532b.png",
     "static/media/tap2sendScreenshot.png": "/samportfolio/static/media/tap2sendScreenshot.8a03a8089bdc6a2b8149.png",
-    "static/media/bgdots.png": "/samportfolio/static/media/bgdots.382b37fe9469788ee23d.png",
+    "static/media/mobileMgcover.png": "/samportfolio/static/media/mobileMgcover.90eea5be86f4250ff3e6.png",
+    "static/media/mgwebsite.png": "/samportfolio/static/media/mgwebsite.f4af569854deec52a5ce.png",
+    "static/media/clipperlinkcover.png": "/samportfolio/static/media/clipperlinkcover.be0f35f85e0ed4f34b39.png",
+    "static/media/mobileClipperlinkcover.png": "/samportfolio/static/media/mobileClipperlinkcover.8e35c09fb6d7b63ecea4.png",
+    "static/media/mobileMgwebsite.png": "/samportfolio/static/media/mobileMgwebsite.311794d4e1c0e21ba735.png",
+    "static/media/mobileTaxirank.png": "/samportfolio/static/media/mobileTaxirank.aabf2bed47fac5f8c70a.png",
+    "static/media/taxirank.png": "/samportfolio/static/media/taxirank.877bb6e79f86418ef939.png",
+    "static/media/mobileZubopay.png": "/samportfolio/static/media/mobileZubopay.a1dcbbfcd372e016ce5c.png",
+    "static/media/zubopay.png": "/samportfolio/static/media/zubopay.d56cd6242712eab078bc.png",
+    "static/media/Taxirankapp.png": "/samportfolio/static/media/Taxirankapp.d70a08f3b21d22caedee.png",
+    "static/media/cloudimage.png": "/samportfolio/static/media/cloudimage.ca99a0b32fa1afda1798.png",
     "static/media/GeneralSans-Semibold.woff2": "/samportfolio/static/media/GeneralSans-Semibold.23103addec2ccc9cbc17.woff2",
     "static/media/GeneralSans-Regular.woff2": "/samportfolio/static/media/GeneralSans-Regular.33c07568e483102927ef.woff2",
     "static/media/GeneralSans-Medium.woff2": "/samportfolio/static/media/GeneralSans-Medium.1096c81555467a69cc16.woff2",
+    "static/media/slick.svg": "/samportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/samportfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/samportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/samportfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/samportfolio/index.html",
-    "main.ca94467c.css.map": "/samportfolio/static/css/main.ca94467c.css.map",
-    "main.6910735d.js.map": "/samportfolio/static/js/main.6910735d.js.map",
-    "453.1407b060.chunk.js.map": "/samportfolio/static/js/453.1407b060.chunk.js.map"
+    "main.680e1b44.css.map": "/samportfolio/static/css/main.680e1b44.css.map",
+    "main.bbd7eed5.js.map": "/samportfolio/static/js/main.bbd7eed5.js.map",
+    "453.ace21015.chunk.js.map": "/samportfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca94467c.css",
-    "static/js/main.6910735d.js"
+    "static/css/main.680e1b44.css",
+    "static/js/main.bbd7eed5.js"
   ]
 }
